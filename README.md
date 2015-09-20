@@ -26,7 +26,7 @@
 - located in `/home/luiz/programming-tutorials`.
 - contains post-receive hook
 
-When the bare repo receives a push containing the master branch, the post-receive hook will move all project files to `/var/www/programming-tutorials`, run `~/scripts/setup.sh` then restart apache gracefully.
+When the bare repo receives a push containing the production branch, the post-receive hook will move all project files to `/var/www/programming-tutorials`, run `~/scripts/setup.sh` then restart apache gracefully.
 
 `~/scripts/setup.sh` does the following:
 
