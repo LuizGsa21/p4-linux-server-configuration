@@ -1,7 +1,7 @@
 # p4-linux-server-configuration
 
 # Overview
- - Domain: [ec2-52-27-194-120.us-west-2.compute.amazonaws.com][1]
+ - Domain: [https://ptutorials.mypassion.io/][1]
  - IP: 52.27.194.120
  - SSH port: 2200
  - To view the source code of the main application being hosted, click [here][4].
@@ -71,7 +71,7 @@ When the bare repo receives a push containing the production branch, the post-re
 - [How To Use Git Hooks To Automate Development and Deployment Tasks][2]
 - [How To Deploy a Flask Application on an Ubuntu VPS][2]
 
-[1]: http://ec2-52-27-194-120.us-west-2.compute.amazonaws.com
+[1]: https://ptutorials.mypassion.io/
 [2]: https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks
 [3]: https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 [4]: https://github.com/LuizGsa21/p3-programming-tutorials
